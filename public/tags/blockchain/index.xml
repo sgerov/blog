@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Sava Gerov</title>
+    <link>/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Sava Gerov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Should I develop for blockchain? </title>
+      <link>/posts/should-i-develop-for-blockchain/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/should-i-develop-for-blockchain/</guid>
+      <description>Originally posted on Medium</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin white paper explained (PART 3/3)</title>
+      <link>/posts/bitcoin-whitepaper-3/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bitcoin-whitepaper-3/</guid>
+      <description>Originally posted on Medium</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin white paper explained (PART 2/3)</title>
+      <link>/posts/bitcoin-whitepaper-2/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bitcoin-whitepaper-2/</guid>
+      <description>Originally posted on Medium</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin white paper explained (PART 1/3)</title>
+      <link>/posts/bitcoin-whitepaper-1/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bitcoin-whitepaper-1/</guid>
+      <description>Originally posted on Medium</description>
+    </item>
+    
+  </channel>
+</rss>
