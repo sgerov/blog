@@ -1,3 +1,63 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+4aseurl = "https://www.savagerov.com"
+title = "Sava Gerov"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 10
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Sava Gerov"
+    info = "Dev"
+    description = "Developer, proponent of agile development, XP and self-improvement. I’m enthusiastic about new technologies and I’m looking forward to pick up new skills."
+    keywords = "blog,developer,sava,gerov"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "🌍 Barcelona • Seville • Uppsala • Valencia • Sofia"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/sgerov"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/sgerov"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 4
+    url = "https://www.linkedin.com/in/savagerov/"
+
+# Menu links
+[[menu.main]]
+    name = "🗒 writing"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "🎹 piano"
+    weight = 3
+    url = "/piano/"
+[[menu.main]]
+    name = "🧠 training"
+    weight = 4
+    url = "/training/"
