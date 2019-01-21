@@ -1,4 +1,4 @@
-4aseurl = "https://www.gerov.es/"
+baseurl = "https://www.gerov.es/"
 title = "Sava Gerov"
 theme = "hugo-coder"
 languagecode = "en"
