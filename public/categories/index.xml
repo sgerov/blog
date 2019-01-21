@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sava Gerov</title>
-    <link>/categories/</link>
+    <link>https://www.gerov.es/categories/</link>
     <description>Recent content in Categories on Sava Gerov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gerov.es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
