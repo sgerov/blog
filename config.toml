@@ -57,7 +57,3 @@ pygmentscodefencesguesssyntax = true
     name = "🎹 piano"
     weight = 3
     url = "/piano/"
-[[menu.main]]
-    name = "🧠 training"
-    weight = 4
-    url = "/training/"
