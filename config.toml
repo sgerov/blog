@@ -11,6 +11,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-153084898-1"
+
 [params]
     author = "Sava Gerov"
     info = "Dev"
