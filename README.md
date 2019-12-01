@@ -8,6 +8,8 @@
 
 ## Deploy
 
+execute `hugo` to build the new `public` directory.
+
 Commit and push both current project and the subproject that leaves in `/public`
 
 Restart Cloudflare cache for immediate changes
