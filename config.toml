@@ -20,9 +20,6 @@ googleAnalytics = "UA-153084898-1"
     keywords = "sava,gerov,blog,developer"
     avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
-
     footercontent = "🌍 Barcelona • Seville • Uppsala • Valencia • Sofia"
 
     hidecredits = true
