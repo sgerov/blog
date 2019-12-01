@@ -19,6 +19,9 @@ body {
 
 .list ul li p {
   margin: 0.6rem 0 0.6rem 0;
+}
+
+.list ul li p:first-child {
   font-size: 0.9em;
 }
 
