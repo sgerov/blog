@@ -16,8 +16,8 @@ googleAnalytics = "UA-153084898-1"
 [params]
     author = "Sava Gerov"
     info = "Dev"
-    description = "Developer, proponent of agile development, XP and self-improvement. I’m enthusiastic about new technologies and I’m looking forward to pick up new skills."
-    keywords = "blog,developer,sava,gerov"
+    description = "I’m a full stack dev, enthusiastic about technology, music and sports. I love what I do and feel very fortunate.\n Always looking forward to pick up new challenges and have some fun!"
+    keywords = "sava,gerov,blog,developer"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
