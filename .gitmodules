@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:sgerov/sgerov.github.io.git
 	branch = master
+[submodule "public/-f"]
+	path = public/-f
+	url = git@github.com:sgerov/sgerov.github.io.git
