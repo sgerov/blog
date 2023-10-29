@@ -13,6 +13,8 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-153084898-1"
 
+publishDir="sgerov.github.io"
+
 [params]
     author = "Sava Gerov"
     info = "Dev"
