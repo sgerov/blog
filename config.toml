@@ -24,7 +24,7 @@ publishDir="sgerov.github.io"
     hidecolorschemetoggle = true
     since = 2018
     enableTwemoji = true
-    colorScheme = "auto"
+    colorScheme = "dark"
 
     footercontent = "🌍 Barcelona • Seville • Uppsala • Valencia • Sofia"
 
