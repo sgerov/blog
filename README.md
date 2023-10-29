@@ -8,8 +8,8 @@
 
 ## Deploy
 
-execute `hugo` to build the new `public` directory.
+execute `hugo` to build the new `sgerov.github.io` dir.
 
-Commit and push both current project and the subproject that leaves in `/public`
+Commit and push `sgerov.github.io` git submodule. Commit and push parent git.
 
-Restart Cloudflare cache for immediate changes
+Restart Cloudflare cache for immediate changes.

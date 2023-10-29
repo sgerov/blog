@@ -17,10 +17,14 @@ publishDir="sgerov.github.io"
 
 [params]
     author = "Sava Gerov"
-    info = "Dev"
+    info = "Tech, music & sports"
     description = "I’m a full stack dev, enthusiastic about technology, music and sports. I love what I do and feel very fortunate.\n Always looking forward to pick up new challenges and have some fun!"
     keywords = "sava,gerov,blog,developer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.jpeg"
+    hidecolorschemetoggle = true
+    since = 2018
+    enableTwemoji = true
+    colorScheme = "auto"
 
     footercontent = "🌍 Barcelona • Seville • Uppsala • Valencia • Sofia"
 
@@ -35,17 +39,17 @@ publishDir="sgerov.github.io"
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/sgerov"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/sgerov"
 [[params.social]]
     name = "Linkedin"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 4
     url = "https://www.linkedin.com/in/savagerov/"
 
